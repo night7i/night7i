@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 这里是绮 👋
 
 <!--
 **night7i/night7i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=night7i&theme=onedark)](https://blog.csdn.net/night7i)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=night7i&theme=cobalt)](https://github.com/night7i)
